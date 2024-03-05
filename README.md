@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/amitcarpenter?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/amitcarpenter/Dipayan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amitcarpenter&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amitcarpenter/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amitcarpenter&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
+<div width="100%" align="center"><a href="https://github.com/amitcarpenter/social_new-amit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amitcarpenter&repo=&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amitcarpenter/school_management_system_admin_dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amitcarpenter&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> 
 
 
 
