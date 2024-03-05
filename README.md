@@ -2,11 +2,11 @@
 
 <h4>A Full-Stack developer | MERN Stack</h4>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
+- 🔭 I’m currently working on a Node js Project
+- 🌱 I’m Interested to work on web automation and web scraping
+- 👯 I’m making the world better by web scraping project
+- 💬 Ask me about Technology
+- 📫 How to reach me: amitcarpenter199@gmail.com , Phone +91 9302394128
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
