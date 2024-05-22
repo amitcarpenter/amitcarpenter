@@ -24,13 +24,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> </p>
 
-# Badges
-
-[![An image of @amitcarpenter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitcarpenter)](https://holopin.io/@amitcarpenter)
-
-[![An image of @amitcarpenter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitcarpenter)](https://holopin.io/@amitcarpenter)
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/amitcarpenter"><img src="https://github-readme-stats.vercel.app/api?username=amitcarpenter&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amitcarpenter's GitHub stats" /></a>
