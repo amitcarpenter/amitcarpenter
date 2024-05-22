@@ -14,6 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitcarpenter&label=Profile%20views&color=0e75b6&style=flat" alt="amitcarpenter" /> </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amitcarpenter&label=Profile%20views&color=0e75b6&style=flat" alt="amitcarpenter" />
+</p>
+
+
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </p>
 
