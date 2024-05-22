@@ -11,9 +11,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/amitcarpenter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/amitcarpenter)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitcarpenter&label=Profile%20views&color=0e75b6&style=flat" alt="amitcarpenter" /> </p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amitcarpenter&label=Profile%20views&color=0e75b6&style=flat" alt="amitcarpenter" />
 </p>
@@ -30,6 +27,9 @@
 # Badges
 
 [![An image of @amitcarpenter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitcarpenter)](https://holopin.io/@amitcarpenter)
+
+[![An image of @amitcarpenter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitcarpenter)](https://holopin.io/@amitcarpenter)
+
 
 <b>My GitHub Stats</b>
 
