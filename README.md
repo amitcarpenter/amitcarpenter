@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/amitcarpenter" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amitcarpenter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />12</a>
+src="https://img.shields.io/github/followers/amitcarpenter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![GitHub followers](https://img.shields.io/github/followers/amitcarpenter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/amitcarpenter)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitcarpenter&label=Profile%20views&color=0e75b6&style=flat" alt="amitcarpenter" /> </p>
 
